@@ -1,0 +1,13 @@
+{
+  "name": "billboard-hot-100-th",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update.js",
+    "test": "node scripts/test_scrape.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

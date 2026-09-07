@@ -1,0 +1,906 @@
+{
+  "week": "2026-W27",
+  "source_label": "Week of June 29, 2026",
+  "data": [
+    {
+      "song": "กลัวว่าฉันจะไม่เสียใจ (Fear) [Live Session]",
+      "artist": "PURPEECH",
+      "this_week": 1,
+      "last_week": 1,
+      "peak_position": 1,
+      "weeks_on_chart": 34,
+      "song_id": "SGED0B58EBA0C845D49D72FF62B8C0D808"
+    },
+    {
+      "song": "ความรัก",
+      "artist": "Bodyslam",
+      "this_week": 2,
+      "last_week": 2,
+      "peak_position": 1,
+      "weeks_on_chart": 3,
+      "song_id": "SG95E3B1E5FB0F4DC0B7C57AADD4EF0437"
+    },
+    {
+      "song": "Living Death",
+      "artist": "PUN",
+      "this_week": 3,
+      "last_week": 3,
+      "peak_position": 2,
+      "weeks_on_chart": 23,
+      "song_id": "SGB76358FF4D144AB8AEE1DC0B15602B9F"
+    },
+    {
+      "song": "รักให้เธอได้รู้",
+      "artist": "PUN",
+      "this_week": 4,
+      "last_week": 4,
+      "peak_position": 2,
+      "weeks_on_chart": 9,
+      "song_id": "SG1850A0F42E674CE78D0D679B1DBC9B5B"
+    },
+    {
+      "song": "ได้แค่เดินมาส่ง",
+      "artist": "GAVIN:D",
+      "this_week": 5,
+      "last_week": 5,
+      "peak_position": 2,
+      "weeks_on_chart": 10,
+      "song_id": "SG9992273DF2814C7192732C17DDC6465D"
+    },
+    {
+      "song": "Rain Zone",
+      "artist": "Maiyarap",
+      "this_week": 6,
+      "last_week": 6,
+      "peak_position": 1,
+      "weeks_on_chart": 18,
+      "song_id": "SGB6C06427CD3A4B37AA21CC6F7E692E99"
+    },
+    {
+      "song": "อยากจะกอดเธอนาน ๆ (HAVE A GOOD TIME)",
+      "artist": "BLVCKHEART",
+      "this_week": 7,
+      "last_week": 7,
+      "peak_position": 6,
+      "weeks_on_chart": 34,
+      "song_id": "SG2075BAFE2CFD4ABCA46B07EB7C058BDA"
+    },
+    {
+      "song": "ขี้แง (Boys Don’t Cry)",
+      "artist": "PROXIE",
+      "this_week": 8,
+      "last_week": null,
+      "peak_position": 8,
+      "weeks_on_chart": 1,
+      "song_id": "SG767CEF9EC79840D39486180F9A3E4AA7"
+    },
+    {
+      "song": "ขอแค่นี้ (Forever n ever)",
+      "artist": "PUN",
+      "this_week": 9,
+      "last_week": 18,
+      "peak_position": 5,
+      "weeks_on_chart": 2,
+      "song_id": "SG7D5CE350ACAD4B379B400E5B67C6DD56"
+    },
+    {
+      "song": "รักมือสอง",
+      "artist": "Bedroom Audio",
+      "this_week": 10,
+      "last_week": 12,
+      "peak_position": 10,
+      "weeks_on_chart": 26,
+      "song_id": "SG501FBD4F209B4AE38489FDCF13085937"
+    },
+    {
+      "song": "จากกันโดยสมบูรณ์",
+      "artist": "guncharlie",
+      "this_week": 11,
+      "last_week": 9,
+      "peak_position": 3,
+      "weeks_on_chart": 34,
+      "song_id": "SG3AA0CF85EC704BA1825CD2100CDD57D8"
+    },
+    {
+      "song": "กลัวความเสียใจ",
+      "artist": "Saran",
+      "this_week": 12,
+      "last_week": 11,
+      "peak_position": 8,
+      "weeks_on_chart": 28,
+      "song_id": "SGC889F2DF0F384988822A01FA40016810"
+    },
+    {
+      "song": "รักใครไม่ไหว",
+      "artist": "Three Man Down",
+      "this_week": 13,
+      "last_week": 8,
+      "peak_position": 6,
+      "weeks_on_chart": 30,
+      "song_id": "SG3712BDB717904ED09A3364947318F3E4"
+    },
+    {
+      "song": "ไม่มีวันไหนที่ไม่คิดถึง (starlost.)",
+      "artist": "PURPEECH",
+      "this_week": 14,
+      "last_week": 10,
+      "peak_position": 6,
+      "weeks_on_chart": 2,
+      "song_id": "SGE8FAE85CC8854F4A8D571197F8F4C18D"
+    },
+    {
+      "song": "ฝากให้เขารัก",
+      "artist": "Yes'sir Days",
+      "this_week": 15,
+      "last_week": 13,
+      "peak_position": 8,
+      "weeks_on_chart": 34,
+      "song_id": "SG3E85FF26F5A04BDDA09D5F6549AA2317"
+    },
+    {
+      "song": "เมื่อถูกค้นพบ",
+      "artist": "FREEHAND",
+      "this_week": 16,
+      "last_week": 16,
+      "peak_position": 11,
+      "weeks_on_chart": 7,
+      "song_id": "SG9F8147BCEAD34D518A00CB0C16941C20"
+    },
+    {
+      "song": "คำยินดี",
+      "artist": "KLEAR",
+      "this_week": 17,
+      "last_week": 17,
+      "peak_position": 10,
+      "weeks_on_chart": 11,
+      "song_id": "SG027B2F3A12344333AD6F9140D7B033DB"
+    },
+    {
+      "song": "เมื่อไหร่จะมี (มีใจให้กัน)",
+      "artist": "BLVCKHEART",
+      "this_week": 18,
+      "last_week": 32,
+      "peak_position": 18,
+      "weeks_on_chart": 5,
+      "song_id": "SGBC6E28B59ABF47338378A18ED6608B38"
+    },
+    {
+      "song": "ถามเพื่ออะไร",
+      "artist": "KLEAR",
+      "this_week": 19,
+      "last_week": 19,
+      "peak_position": 8,
+      "weeks_on_chart": 5,
+      "song_id": "SGBFDFE33D28C9480ABC7562CDD4F6AE94"
+    },
+    {
+      "song": "ที่คั่นหนังสือ (Sometimes)",
+      "artist": "BOWKYLION, Nont Tanont",
+      "this_week": 20,
+      "last_week": 14,
+      "peak_position": 14,
+      "weeks_on_chart": 34,
+      "song_id": "SG7AC02EB62D2D4D1E99054BAE9B03BF1D"
+    },
+    {
+      "song": "ดาวตก | Wish",
+      "artist": "WANYAI",
+      "this_week": 21,
+      "last_week": 21,
+      "peak_position": 13,
+      "weeks_on_chart": 34,
+      "song_id": "SG1D8BEB2EB02B4178BB7CC67EE8DEF6FC"
+    },
+    {
+      "song": "ONE OF MY LIFE",
+      "artist": "BlackHeart Ft.K6Y",
+      "this_week": 22,
+      "last_week": 20,
+      "peak_position": 12,
+      "weeks_on_chart": 33,
+      "song_id": "SG8ACB3C20BB6345A2B98FB9016E79EE47"
+    },
+    {
+      "song": "มือเปล่า (PUT THE GUN DOWN)",
+      "artist": "ALIE BLACKCOBRA",
+      "this_week": 23,
+      "last_week": 22,
+      "peak_position": 11,
+      "weeks_on_chart": 9,
+      "song_id": "SG31C7969F316C418E9A1750FCBA2BF2F1"
+    },
+    {
+      "song": "ที่เดิม",
+      "artist": "PUN",
+      "this_week": 24,
+      "last_week": 24,
+      "peak_position": 9,
+      "weeks_on_chart": 34,
+      "song_id": "SGC9D7ACBC670E4028BEB686162AAB7813"
+    },
+    {
+      "song": "Baddie",
+      "artist": "IRONBOY ft. Justmine JMNK",
+      "this_week": 25,
+      "last_week": 25,
+      "peak_position": 18,
+      "weeks_on_chart": 4,
+      "song_id": "SGA2EF697D4BF84B7787152934EF390DFF"
+    },
+    {
+      "song": "บทสรุปสุดท้าย",
+      "artist": "Z9",
+      "this_week": 26,
+      "last_week": 30,
+      "peak_position": 26,
+      "weeks_on_chart": 31,
+      "song_id": "SGA1D6DB53BD944C31BDFBE08C8D9142E6"
+    },
+    {
+      "song": "9 นาฬิกา",
+      "artist": "SPF",
+      "this_week": 27,
+      "last_week": 27,
+      "peak_position": 20,
+      "weeks_on_chart": 25,
+      "song_id": "SGB72994F5B41A4231A99CE9D0783CC001"
+    },
+    {
+      "song": "ย้าย่ายะ",
+      "artist": "อูโน่ หลาวทอง",
+      "this_week": 28,
+      "last_week": 15,
+      "peak_position": 15,
+      "weeks_on_chart": 4,
+      "song_id": "SGA231B4E646B148238EA8D13A7ECBFFF7"
+    },
+    {
+      "song": "ผมมีหัวใจจริงๆ (For The Girl...)",
+      "artist": "T!NE",
+      "this_week": 29,
+      "last_week": 23,
+      "peak_position": 7,
+      "weeks_on_chart": 5,
+      "song_id": "SG5DA3203E50D34EAC90CBDC629CD1A8C6"
+    },
+    {
+      "song": "ส่วนผสมลับ ( Secret ingredient )",
+      "artist": "Jh4y",
+      "this_week": 30,
+      "last_week": 38,
+      "peak_position": 22,
+      "weeks_on_chart": 3,
+      "song_id": "SGBD426D5C102E423C9F1AFD4B635C5AA7"
+    },
+    {
+      "song": "DAY ONE",
+      "artist": "PUN",
+      "this_week": 31,
+      "last_week": 31,
+      "peak_position": 19,
+      "weeks_on_chart": 34,
+      "song_id": "SGBFDB30CA528A4A45B9A6E4584C4B10D4"
+    },
+    {
+      "song": "สองรัก",
+      "artist": "Zeal",
+      "this_week": 32,
+      "last_week": 26,
+      "peak_position": 24,
+      "weeks_on_chart": 21,
+      "song_id": "SGB54A8DE4FB9246D9946F861380684659"
+    },
+    {
+      "song": "ก่อนตาย",
+      "artist": "Big Ass",
+      "this_week": 33,
+      "last_week": 40,
+      "peak_position": 25,
+      "weeks_on_chart": 23,
+      "song_id": "SG02A2DE5C80A44DC089DAAEFFB65EBBBA"
+    },
+    {
+      "song": "STORY",
+      "artist": "P6ICK",
+      "this_week": 34,
+      "last_week": 35,
+      "peak_position": 16,
+      "weeks_on_chart": 10,
+      "song_id": "SG3E6244B598DB4FFF8820704E7BA9F32F"
+    },
+    {
+      "song": "สลักจิต",
+      "artist": "ป๊อบ ปองกูล",
+      "this_week": 35,
+      "last_week": 56,
+      "peak_position": 22,
+      "weeks_on_chart": 34,
+      "song_id": "SG99E9E37818544D568563E056BD8D2848"
+    },
+    {
+      "song": "รู้ตัวอีกที",
+      "artist": "Sexski",
+      "this_week": 36,
+      "last_week": 33,
+      "peak_position": 25,
+      "weeks_on_chart": 24,
+      "song_id": "SG8EE32370244E42CE952CA027DB419EE9"
+    },
+    {
+      "song": "SAYONARA (ซาโยนาระ)",
+      "artist": "MILD",
+      "this_week": 37,
+      "last_week": 29,
+      "peak_position": 24,
+      "weeks_on_chart": 23,
+      "song_id": "SGC6FD6A447C514099970E5E228DE63854"
+    },
+    {
+      "song": "สาธุ (Sathu)",
+      "artist": "ASIA7 Feat. ปลาย กนกพร",
+      "this_week": 38,
+      "last_week": 49,
+      "peak_position": 24,
+      "weeks_on_chart": 25,
+      "song_id": "SG550F55C4CE764D71B1B08F14B9C46BD8"
+    },
+    {
+      "song": "ขอ",
+      "artist": "Lomosonic",
+      "this_week": 39,
+      "last_week": 50,
+      "peak_position": 26,
+      "weeks_on_chart": 15,
+      "song_id": "SG4D144F8F128245B4AEE9D0C3ECBA9761"
+    },
+    {
+      "song": "ใจฉันตามเธอไป",
+      "artist": "YOUNGOHM",
+      "this_week": 40,
+      "last_week": 36,
+      "peak_position": 25,
+      "weeks_on_chart": 33,
+      "song_id": "SGABF0E24E7A2F49F7AD4FD0CDF94DD34A"
+    },
+    {
+      "song": "I Just Wanna Know",
+      "artist": "PUN",
+      "this_week": 41,
+      "last_week": 48,
+      "peak_position": 6,
+      "weeks_on_chart": 24,
+      "song_id": "SG1FAE676B889D4663A59743E0DD61F514"
+    },
+    {
+      "song": "ขี้หึง",
+      "artist": "Silly Fools",
+      "this_week": 42,
+      "last_week": 47,
+      "peak_position": 31,
+      "weeks_on_chart": 34,
+      "song_id": "SGF1EC2D602733420496CAE4ECADD62D41"
+    },
+    {
+      "song": "อาจเป็นเพราะฉันเอง (me.)",
+      "artist": "PURPEECH",
+      "this_week": 43,
+      "last_week": 28,
+      "peak_position": 28,
+      "weeks_on_chart": 34,
+      "song_id": "SGF3F4F0F7A20D4AF695E8FBE616747DC1"
+    },
+    {
+      "song": "นาฬิกาตาย",
+      "artist": "Bodyslam",
+      "this_week": 44,
+      "last_week": 45,
+      "peak_position": 27,
+      "weeks_on_chart": 3,
+      "song_id": "SG262C1B1C4DBD411DB947670D9B64D5E9"
+    },
+    {
+      "song": "Sunset In Pattaya",
+      "artist": "YOUNGOHM",
+      "this_week": 45,
+      "last_week": 43,
+      "peak_position": 33,
+      "weeks_on_chart": 3,
+      "song_id": "SG47D812CC9BD94DE88269E17CDDFB2D9C"
+    },
+    {
+      "song": "เจิดจรัส",
+      "artist": "YOUNGOHM",
+      "this_week": 46,
+      "last_week": 39,
+      "peak_position": 39,
+      "weeks_on_chart": 34,
+      "song_id": "SGA0AC732B33C54F63BCC25BCA881A6E62"
+    },
+    {
+      "song": "ใจเหลือเหลือ",
+      "artist": "Dr.Fuu",
+      "this_week": 47,
+      "last_week": 51,
+      "peak_position": 25,
+      "weeks_on_chart": 30,
+      "song_id": "SG7FA0AD1BADD240DF9E4A1CD3088138E2"
+    },
+    {
+      "song": "ไม่ให้ไป",
+      "artist": "Three Man Down",
+      "this_week": 48,
+      "last_week": 42,
+      "peak_position": 25,
+      "weeks_on_chart": 24,
+      "song_id": "SG178939D356914AB5A97DBFCEE62CD986"
+    },
+    {
+      "song": "PLEASE",
+      "artist": "อะตอม ชนกันต์",
+      "this_week": 49,
+      "last_week": 34,
+      "peak_position": 10,
+      "weeks_on_chart": 33,
+      "song_id": "SG1924A60DF8CB414B82754DEA65B5C4BF"
+    },
+    {
+      "song": "เล่นของสูง",
+      "artist": "Big Ass",
+      "this_week": 50,
+      "last_week": 55,
+      "peak_position": 45,
+      "weeks_on_chart": 23,
+      "song_id": "SG645167640227428B9F1219DE662ADA5F"
+    },
+    {
+      "song": "กอดไม่ได้",
+      "artist": "Bedroom Audio",
+      "this_week": 51,
+      "last_week": 67,
+      "peak_position": 27,
+      "weeks_on_chart": 17,
+      "song_id": "SGC8C56EA7E1EC4465A694458D33F38A06"
+    },
+    {
+      "song": "นครดารา",
+      "artist": "YOUNGOHM",
+      "this_week": 52,
+      "last_week": 41,
+      "peak_position": 36,
+      "weeks_on_chart": 34,
+      "song_id": "SGD87D33E83273466CB828595ECFFF2D18"
+    },
+    {
+      "song": "เลือกเองกับมือ",
+      "artist": "Season Five",
+      "this_week": 53,
+      "last_week": 59,
+      "peak_position": 27,
+      "weeks_on_chart": 33,
+      "song_id": "SG908E60C72FBF49229DBDF799D3E624B3"
+    },
+    {
+      "song": "ไกล",
+      "artist": "Musketeers",
+      "this_week": 54,
+      "last_week": 66,
+      "peak_position": 54,
+      "weeks_on_chart": 23,
+      "song_id": "SG073EDF820D914FA693DB4B9AD79593AB"
+    },
+    {
+      "song": "สารภาพลดโทษกึ่งหนึ่ง",
+      "artist": "MaxMillor ft.PORZAX",
+      "this_week": 55,
+      "last_week": 46,
+      "peak_position": 42,
+      "weeks_on_chart": 9,
+      "song_id": "SG619B16C141E349678034F835CE17D3F0"
+    },
+    {
+      "song": "ไม่บอกเธอ",
+      "artist": "Bedroom Audio",
+      "this_week": 56,
+      "last_week": 54,
+      "peak_position": 32,
+      "weeks_on_chart": 23,
+      "song_id": "SGC17F97E9DA0E4F9E832664CAD2FB2A84"
+    },
+    {
+      "song": "เวลาเธอยิ้ม",
+      "artist": "POLYCAT",
+      "this_week": 57,
+      "last_week": 44,
+      "peak_position": 29,
+      "weeks_on_chart": 23,
+      "song_id": "SG8DF5C4A506EB495FBC27847618588B98"
+    },
+    {
+      "song": "ใจบาง",
+      "artist": "LUMMUN",
+      "this_week": 58,
+      "last_week": 58,
+      "peak_position": 28,
+      "weeks_on_chart": 10,
+      "song_id": "SGC2193534D38A4DCABF0CBB1332312D5F"
+    },
+    {
+      "song": "ทิ้งไป",
+      "artist": "Only Monday",
+      "this_week": 59,
+      "last_week": 69,
+      "peak_position": 33,
+      "weeks_on_chart": 18,
+      "song_id": "SGC554A17979854A448EB22735E5F49FC2"
+    },
+    {
+      "song": "อ๊ะป่าว?(Yes it?)",
+      "artist": "The 38 Years Ago",
+      "this_week": 60,
+      "last_week": 52,
+      "peak_position": 45,
+      "weeks_on_chart": 17,
+      "song_id": "SG6B90DF9C9A174505BC7E41BD57D9C9DB"
+    },
+    {
+      "song": "1 OF 1",
+      "artist": "P6ICK, SURIYA MQT",
+      "this_week": 61,
+      "last_week": 57,
+      "peak_position": 47,
+      "weeks_on_chart": 34,
+      "song_id": "SGB6CD86AAF9A947DF982A6D532B693541"
+    },
+    {
+      "song": "คืนจันทร์",
+      "artist": "Loso",
+      "this_week": 62,
+      "last_week": 60,
+      "peak_position": 34,
+      "weeks_on_chart": 4,
+      "song_id": "SG1697F9B224D44DF4ABF49D30D37A11AF"
+    },
+    {
+      "song": "ความทรงจำ",
+      "artist": "Musketeers",
+      "this_week": 63,
+      "last_week": 61,
+      "peak_position": 24,
+      "weeks_on_chart": 34,
+      "song_id": "SG119185787B094985ABBF96FA7ADCD326"
+    },
+    {
+      "song": "เพลงรัก",
+      "artist": "Three Man Down",
+      "this_week": 64,
+      "last_week": 53,
+      "peak_position": 0,
+      "weeks_on_chart": 34,
+      "song_id": "SGB89F353896A4418984C571A57648BE36"
+    },
+    {
+      "song": "เพลงของเรา | Our Song",
+      "artist": "Tattoo Colour",
+      "this_week": 65,
+      "last_week": 70,
+      "peak_position": 56,
+      "weeks_on_chart": 22,
+      "song_id": "SGB5B863BF19794DDE975DD0115FC84E44"
+    },
+    {
+      "song": "ไม่ได้ลืมแค่ไม่ได้เจอ",
+      "artist": "guncharlie",
+      "this_week": 66,
+      "last_week": 65,
+      "peak_position": 54,
+      "weeks_on_chart": 11,
+      "song_id": "SG5834B3D4D26A48CE830DB47599238027"
+    },
+    {
+      "song": "สมดุลรัก (Balance)",
+      "artist": "SEA., SEXSKI",
+      "this_week": 67,
+      "last_week": 62,
+      "peak_position": 50,
+      "weeks_on_chart": 34,
+      "song_id": "SGB9E400B66BC4431A9C7BFCA69C0FFC61"
+    },
+    {
+      "song": "รออยู่อย่างนั้น",
+      "artist": "SARAN",
+      "this_week": 68,
+      "last_week": 76,
+      "peak_position": 68,
+      "weeks_on_chart": 33,
+      "song_id": "SGC3FE038F869D439EA7275E07EA056C5E"
+    },
+    {
+      "song": "ซิงเกิลคอย | Single Coil",
+      "artist": "TATTOO COLOUR",
+      "this_week": 69,
+      "last_week": null,
+      "peak_position": 69,
+      "weeks_on_chart": 1,
+      "song_id": "SG50E897E328214D5084A03D47CFC769D9"
+    },
+    {
+      "song": "ฝนตกไหม",
+      "artist": "Three Man Down",
+      "this_week": 70,
+      "last_week": 80,
+      "peak_position": 55,
+      "weeks_on_chart": 14,
+      "song_id": "SG8595FDA0F4AF47DFA98D73C5B2B29A18"
+    },
+    {
+      "song": "Benz ดำ",
+      "artist": "YOUNGOHM",
+      "this_week": 71,
+      "last_week": 71,
+      "peak_position": 47,
+      "weeks_on_chart": 32,
+      "song_id": "SG4BDBF0A939F047919C4F2C770A9D2679"
+    },
+    {
+      "song": "คิดถึงฉันไหมเวลาที่เธอ...",
+      "artist": "Taxi",
+      "this_week": 72,
+      "last_week": 75,
+      "peak_position": 46,
+      "weeks_on_chart": 16,
+      "song_id": "SG9E66F7C63E2F4B68A709C75615E0B910"
+    },
+    {
+      "song": "Yours Ever",
+      "artist": "Cocktail",
+      "this_week": 73,
+      "last_week": 77,
+      "peak_position": 51,
+      "weeks_on_chart": 34,
+      "song_id": "SG36F3AC38D8D14F38A6FE223E902BB6B1"
+    },
+    {
+      "song": "อยู่ได้แล้ว [Live Session]",
+      "artist": "Lipta, Mirrr",
+      "this_week": 74,
+      "last_week": 64,
+      "peak_position": 39,
+      "weeks_on_chart": 34,
+      "song_id": "SG52B153844E954B5DB7C023FAA3AF5245"
+    },
+    {
+      "song": "คิด(แต่ไม่)ถึง [Same Page?]",
+      "artist": "Tilly Birds",
+      "this_week": 75,
+      "last_week": 83,
+      "peak_position": 0,
+      "weeks_on_chart": 23,
+      "song_id": "SG848D38075DCA48899FF237F6AC80AEF5"
+    },
+    {
+      "song": "ไฟเย็น",
+      "artist": "YOUNGOHM",
+      "this_week": 76,
+      "last_week": 74,
+      "peak_position": 50,
+      "weeks_on_chart": 34,
+      "song_id": "SG3E738224B65C4957BF64D232CA163846"
+    },
+    {
+      "song": "คืนที่ดาวเต็มฟ้า",
+      "artist": "ปราโมทย์ วิเลปะนะ",
+      "this_week": 77,
+      "last_week": 72,
+      "peak_position": 61,
+      "weeks_on_chart": 5,
+      "song_id": "SG0B7D35274FA54B32B82AB42C302EEA70"
+    },
+    {
+      "song": "ลบไม่ได้ช่วยให้ลืม [ LIVE SESSION ]",
+      "artist": "INK WARUNTORN x BILLKIN",
+      "this_week": null,
+      "last_week": 87,
+      "peak_position": 23,
+      "weeks_on_chart": 5,
+      "song_id": "SG96075BDE3B1D4DD797915ED6D121A8C2"
+    },
+    {
+      "song": "จะรักหรือจะร้าย",
+      "artist": "KLEAR",
+      "this_week": 79,
+      "last_week": 81,
+      "peak_position": 69,
+      "weeks_on_chart": 11,
+      "song_id": "SG871A149211644DD5A1394D3DF542B82B"
+    },
+    {
+      "song": "ดาวหางฮัลเลย์ (Halley's Comet)",
+      "artist": "fellow fellow",
+      "this_week": 80,
+      "last_week": 97,
+      "peak_position": 49,
+      "weeks_on_chart": 34,
+      "song_id": "SG89A18978CB4B4DFD87641F8E4AB83E13"
+    },
+    {
+      "song": "Perfect",
+      "artist": "PUN feat. 1MILL",
+      "this_week": 81,
+      "last_week": 68,
+      "peak_position": 62,
+      "weeks_on_chart": 14,
+      "song_id": "SG4625EAEF11464E26BD6DEB04403964DE"
+    },
+    {
+      "song": "รักแรกพบ",
+      "artist": "Tattoo Colour",
+      "this_week": 82,
+      "last_week": 82,
+      "peak_position": 68,
+      "weeks_on_chart": 23,
+      "song_id": "SGFCA008D4259E4879B2860C2AE77FFBEE"
+    },
+    {
+      "song": "หนึ่งคนตรงนี้",
+      "artist": "PURPEECH",
+      "this_week": 83,
+      "last_week": 73,
+      "peak_position": 73,
+      "weeks_on_chart": 17,
+      "song_id": "SG69AB9FD37CAF4B74B45EF51DACC4303A"
+    },
+    {
+      "song": "นิโคติน (nicotine)",
+      "artist": "Mirrr",
+      "this_week": 84,
+      "last_week": 98,
+      "peak_position": 37,
+      "weeks_on_chart": 9,
+      "song_id": "SGA41B3FBF150C4FAA8445A6FDA74B3CB3"
+    },
+    {
+      "song": "เดินมาส่ง (BYE)",
+      "artist": "First Anuwat,Saran",
+      "this_week": 85,
+      "last_week": 86,
+      "peak_position": 67,
+      "weeks_on_chart": 23,
+      "song_id": "SG940D620197C145DF9D87439D49551CE1"
+    },
+    {
+      "song": "เมื่อไหร่จะบอก",
+      "artist": "ETC x The Parkinson",
+      "this_week": 86,
+      "last_week": 91,
+      "peak_position": 72,
+      "weeks_on_chart": 17,
+      "song_id": "SG3D2D99404A604D4BAADFB7B6668C525D"
+    },
+    {
+      "song": "วิงวอน (ex-change)",
+      "artist": "BOWKYLION",
+      "this_week": 87,
+      "last_week": 79,
+      "peak_position": 0,
+      "weeks_on_chart": 34,
+      "song_id": "SGCEE40818E76147C6B33CA043F55E275E"
+    },
+    {
+      "song": "เสียดายของ",
+      "artist": "Basher",
+      "this_week": 88,
+      "last_week": null,
+      "peak_position": 88,
+      "weeks_on_chart": 23,
+      "song_id": "SG4A77D7E3C3714B05A5528287D89B221B"
+    },
+    {
+      "song": "ทางของฝุ่น (Dust)",
+      "artist": "Atom ชนกันต์",
+      "this_week": 89,
+      "last_week": 92,
+      "peak_position": 82,
+      "weeks_on_chart": 16,
+      "song_id": "SGEB91209683B6444695A0009958BAE0A4"
+    },
+    {
+      "song": "สิ่งที่มันกำลังเกิด",
+      "artist": "เอ๊ะ จิรากร feat. วง PAUSE",
+      "this_week": 90,
+      "last_week": null,
+      "peak_position": 90,
+      "weeks_on_chart": 1,
+      "song_id": "SGD01EBFB42011454EBCDB525302957AB8"
+    },
+    {
+      "song": "อกหัก",
+      "artist": "Bodyslam",
+      "this_week": 91,
+      "last_week": null,
+      "peak_position": 91,
+      "weeks_on_chart": 1,
+      "song_id": "SG0964771D1AA4440D90BB172902A6C31E"
+    },
+    {
+      "song": "KRYPTONITE",
+      "artist": "PUN",
+      "this_week": 92,
+      "last_week": 94,
+      "peak_position": 92,
+      "weeks_on_chart": 32,
+      "song_id": "SGEC980D1388AC497D89622701785249C8"
+    },
+    {
+      "song": "Promethazine",
+      "artist": "SARAN X BlackHeart X Pondering",
+      "this_week": 93,
+      "last_week": null,
+      "peak_position": 93,
+      "weeks_on_chart": 12,
+      "song_id": "SG39C0B8FEECEE45C79AE16CBC5923C734"
+    },
+    {
+      "song": "ไม่เคยได้ลา",
+      "artist": "Three Man Down",
+      "this_week": 94,
+      "last_week": 63,
+      "peak_position": 63,
+      "weeks_on_chart": 4,
+      "song_id": "SG17AB081CC8724A918ABFD71AA5FF9D3E"
+    },
+    {
+      "song": "BU",
+      "artist": "SURIYA MQT X P6ICK",
+      "this_week": 95,
+      "last_week": 88,
+      "peak_position": 85,
+      "weeks_on_chart": 33,
+      "song_id": "SG6F306940074B4B6FA41DFBB37DABBC0F"
+    },
+    {
+      "song": "เรื่องราวความรักในตำนาน",
+      "artist": "YOUNGOHM",
+      "this_week": 96,
+      "last_week": null,
+      "peak_position": 96,
+      "weeks_on_chart": 32,
+      "song_id": "SG68815CDE5F7D4F369A072B4C5C7C2178"
+    },
+    {
+      "song": "ฤดูร้อน",
+      "artist": "Paradox",
+      "this_week": 97,
+      "last_week": 90,
+      "peak_position": 89,
+      "weeks_on_chart": 14,
+      "song_id": "SG0D308CA636B744F38891257644CEEFD1"
+    },
+    {
+      "song": "ลูกอม",
+      "artist": "วัชราวลี",
+      "this_week": 98,
+      "last_week": 84,
+      "peak_position": 84,
+      "weeks_on_chart": 23,
+      "song_id": "SG2038FCB8AD234778A390AA9CE65CCCCA"
+    },
+    {
+      "song": "ทุกความทรงจำ",
+      "artist": "Only Monday",
+      "this_week": 99,
+      "last_week": null,
+      "peak_position": 99,
+      "weeks_on_chart": 5,
+      "song_id": "SG04A518D1D77246128E1D8E3EA2B69CF5"
+    },
+    {
+      "song": "แค่คุณ",
+      "artist": "Musketeers",
+      "this_week": 100,
+      "last_week": 99,
+      "peak_position": 44,
+      "weeks_on_chart": 21,
+      "song_id": "SGA51237E7985E4E5D9B53D62A50BE8D12"
+    }
+  ]
+}
