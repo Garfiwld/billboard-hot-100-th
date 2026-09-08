@@ -2,9 +2,9 @@ name: update chart
 
 on:
   schedule:
-    # นาที 23 เพื่อเลี่ยงคิวแน่นตอนต้นชั่วโมง; ~03:23 UTC = ~10:23 น. ไทย
+    # 04:23 UTC = 11:23 น. ไทย
     # เป็นแค่ fallback — ตัวตั้งเวลาหลักคือ cron-job.org ที่ยิง workflow_dispatch
-    - cron: "23 3 * * *"
+    - cron: "23 4 * * *"
   workflow_dispatch: {} # ให้กดรันเองได้ และให้ cron-job.org เรียกผ่าน API ได้
 
 permissions:
@@ -14,7 +14,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      # ดึงโค้ด + เก็บ token ไว้ให้ git push ใช้ (checkout@v4 ตั้ง persist-credentials=true อยู่แล้ว)
+      # ดึงโค้ด + เก็บ token ไว้ให้ git push ใช้
       - uses: actions/checkout@v4
 
       # ติดตั้ง Node 20 (ตรงกับ engine ที่ scraper ใช้: fetch built-in + ESM)
@@ -28,13 +28,11 @@ jobs:
       # ดึงสัปดาห์ที่ยังไม่มี แล้ว rebuild all.json / latest.json — idempotent
       - run: npm run update
 
-      # หาวันที่ (UTC) ไว้ใส่ข้อความ commit
-      - id: date
-        run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
-
-      # commit เฉพาะเมื่อมีไฟล์เปลี่ยน — action จัดการเคส no-change + push ให้เอง
-      # ไม่ตั้ง add: ใช้ default '.' (node_modules ติด .gitignore อยู่แล้ว)
-      - uses: EndBug/add-and-commit@v9
-        with:
-          author_name: Update
-          message: "Updated on ${{ steps.date.outputs.date }}"
+      # stage + commit + push เฉพาะเมื่อมีไฟล์เปลี่ยน
+      - run: |
+          git config user.name  "Garfiwld"
+          git config user.email "garfiwld@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "Updated on $(date -u +%Y-%m-%d)"
+          git push
