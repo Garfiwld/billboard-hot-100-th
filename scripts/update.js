@@ -1,6 +1,12 @@
 // Backfill every missing week up to now, then rebuild aggregates.
 // Idempotent: only writes week files that don't exist yet. Safe to run daily.
-import { existsSync, mkdirSync, readFileSync, writeFileSync, readdirSync } from "node:fs";
+import {
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  writeFileSync,
+  readdirSync,
+} from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { scrapeWeek } from "./scrape.js";
@@ -15,7 +21,9 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 // ISO week helpers ----------------------------------------------------------
 function isoWeek(d) {
-  const t = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()));
+  const t = new Date(
+    Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()),
+  );
   const day = t.getUTCDay() || 7;
   t.setUTCDate(t.getUTCDate() + 4 - day);
   const yearStart = new Date(Date.UTC(t.getUTCFullYear(), 0, 1));
@@ -73,14 +81,42 @@ async function backfill() {
 }
 
 function rebuildAggregates() {
-  const files = readdirSync(WEEK_DIR).filter((f) => f.endsWith(".json")).sort();
+  const files = readdirSync(WEEK_DIR)
+    .filter((f) => f.endsWith(".json"))
+    .sort();
   if (files.length === 0) return;
-  const snaps = files.map((f) => JSON.parse(readFileSync(join(WEEK_DIR, f), "utf8")));
+  const snaps = files.map((f) =>
+    JSON.parse(readFileSync(join(WEEK_DIR, f), "utf8")),
+  );
   writeFileSync(join(ROOT, "all.json"), JSON.stringify(snaps, null, 2) + "\n");
-  writeFileSync(join(ROOT, "latest.json"), JSON.stringify(snaps.at(-1), null, 2) + "\n");
+  writeFileSync(
+    join(ROOT, "latest.json"),
+    JSON.stringify(snaps.at(-1), null, 2) + "\n",
+  );
   console.log(`aggregates: ${snaps.length} weeks, latest ${snaps.at(-1).week}`);
+}
+
+function updateReadme() {
+  const readmePath = join(ROOT, "README.md");
+  const readme = readFileSync(readmePath, "utf8");
+
+  const latest = JSON.parse(readFileSync(join(ROOT, "latest.json"), "utf8"));
+  let newReadme = readme.replace(
+    /week\/.*?\.json"><img src="https:\/\/img\.shields\.io\/static\/v1\?label=Last%20week&message=.*?&/,
+    `week/${latest.week}.json"><img src="https://img.shields.io/static/v1?label=Last%20week&message=${latest.week}&`,
+  );
+
+  const date = new Date();
+  const dateString = date.toUTCString().split(" ").slice(1, 5).join(" ");
+  newReadme = newReadme.replace(
+    /Last%20Update&message=.*?&color=34D058/,
+    `Last%20Update&message=${encodeURIComponent(dateString)}&color=34D058`,
+  );
+
+  writeFileSync(readmePath, newReadme);
 }
 
 const added = await backfill();
 rebuildAggregates();
+updateReadme();
 console.log(`done, ${added.length} new week(s)`);

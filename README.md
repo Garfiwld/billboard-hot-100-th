@@ -1,5 +1,10 @@
 <h1 align="center">
     <div>Historic Billboard Thailand Top Thai Song Data</div>
+    <div>
+        <a href="https://github.com/Garfiwld/billboard-hot-100-th/blob/main/.github/workflows/update.yml"><img src="https://github.com/Garfiwld/billboard-hot-100-th/blob/main/.github/workflows/update.yml/badge.svg" alt="Update" /></a>
+        <a><img src="https://img.shields.io/static/v1?label=Last%20Update&message=08%20Sep%202026%2006%3A38%3A48&color=34D058&labelColor=333a41" alt="Last Update" /></a>
+        <a href="https://raw.githubusercontent.com/Garfiwld/billboard-hot-100-th/refs/heads/main/week/2026-W27.json"><img src="https://img.shields.io/static/v1?label=Last%20week&message=2026-W27&color=blue&labelColor=333a41" alt="Latest week" /></a>
+    </div>
 </h1>
 
 This repository provides JSON files for every Billboard Thailand "Top Thai Song"
