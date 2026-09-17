@@ -2,7 +2,7 @@
     <div>Historic Billboard Thailand Top Thai Song Data</div>
     <div>
         <a href="https://github.com/Garfiwld/billboard-hot-100-th/actions/workflows/update.yml"><img src="https://github.com/Garfiwld/billboard-hot-100-th/actions/workflows/update.yml/badge.svg" alt="Update" /></a>
-        <a><img src="https://img.shields.io/static/v1?label=Last%20Update&message=16%20Sep%202026%2009%3A22%3A56&color=34D058&labelColor=333a41" alt="Last Update" /></a>
+        <a><img src="https://img.shields.io/static/v1?label=Last%20Update&message=17%20Sep%202026%2004%3A23%3A37&color=34D058&labelColor=333a41" alt="Last Update" /></a>
         <a href="https://raw.githubusercontent.com/Garfiwld/billboard-hot-100-th/refs/heads/main/week/2026-W27.json"><img src="https://img.shields.io/static/v1?label=Last%20week&message=2026-W27&color=blue&labelColor=333a41" alt="Latest week" /></a>
     </div>
 </h1>
